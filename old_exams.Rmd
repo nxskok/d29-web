@@ -1,0 +1,10 @@
+---
+title: "Old exams"
+---
+
+## Old final exams
+
+Year  | Exam                     | Figures
+------|--------------------------|----------------------------
+2018  | [exam](final-20181.pdf)  | [figures](final-20181-f.pdf)
+2019  | [exam](final-20191.pdf)  | [figures](final-20191-f.pdf)

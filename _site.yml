@@ -5,6 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Lecture notes and PASIAS"
+    - text: "Lecture notes"
       href: lecture_notes.html
-
+    - text: "Quercus"
+      href: http://q.utoronto.ca
+    - text: "PASIAS"
+      href: http://ritsokiguess.site/pasias
+    - text: "Old exams"
+      href: old_exams.html
