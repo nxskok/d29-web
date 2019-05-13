@@ -1,5 +1,14 @@
 ---
-title: "My Website"
+title: "STAD29"
 ---
 
-Hello, Website!
+# Statistics for the Life and Social Sciences
+
+## Ken Butler
+
+![bad picture](ken.jpg){width=400px}
+
+Welcome to the home page for STA 1007 / STAD29. This is the place to look for all things course-related (notes, assignments, announcements etc.) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
+
+News goes below here, most recent at the top.
+
