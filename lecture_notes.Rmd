@@ -1,11 +1,12 @@
 ---
-title: "Lecture notes and PASIAS"
+title: "Lecture notes"
 ---
 
 Last update of lecture notes March 28, 2019.
 
 - My [lecture notes](slides-sw.pdf), with course outline in the first few pages.
-- [R code](slides-sw.R) for the lecture notes.
-- [Problems and Solutions in Applied Statistics](http://ritsokiguess.site/pasias), and [PDF version](http://ritsokiguess.site/pasias/pasias.pdf)
+- R notebooks with lecture code, by section:
+  - [regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bRegression.Rmd)
+  - [logistic regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bLogistic.Rmd)
 
 
