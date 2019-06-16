@@ -2,9 +2,9 @@
 title: "Lecture notes"
 ---
 
-Last update of lecture notes March 28, 2019.
+Last update of lecture notes Jun 15, 2019.
 
-- My [lecture notes](slides-sw.pdf), with course outline in the first few pages.
+- My [lecture notes](slides_d29.pdf), with course outline in the first few pages.
 - R notebooks with lecture code, by section:
   - [regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bRegression.Rmd)
   - [logistic regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bLogistic.Rmd)
