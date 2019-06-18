@@ -6,10 +6,13 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Lecture notes"
-      href: lecture_notes.html
+      href: slides_d29.pdf
+    - text: "Lecture code (R Notebooks)"
+      href: lecture_code.html
     - text: "Quercus"
       href: http://q.utoronto.ca
     - text: "PASIAS"
       href: http://ritsokiguess.site/pasias
     - text: "Old exams"
       href: old_exams.html
+ 

@@ -1,0 +1,20 @@
+---
+title: "Lecture code"
+---
+
+- R notebooks with lecture code, by section:
+  - [regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bRegression.Rmd)
+  - [logistic regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bLogistic.Rmd)
+  - [survival analysis](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bSurvival.Rmd)
+  - [analysis of variance](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bAnova.Rmd)
+  - [analysis of covariance](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bAncova.Rmd)
+  - [Multivariate analysis of variance](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bManova.Rmd)
+  - [Repeated measures](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bProfile.Rmd)
+  - [Discriminant analysis](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bDiscrim.Rmd)
+  - [Cluster analysis](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bCluster.Rmd)
+  - [Multidimensional scaling](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bMDS.Rmd)
+  - [Principal components](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bPrincomp.Rmd)
+  - [Factor analysis](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bFactor.Rmd)
+  - [Time series](https://raw.githubusercontent.com/nxskok/stad29-notes/master/time-series.Rmd)
+  - [Frequency tables](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bMultiway.Rmd)
+  
