@@ -11,6 +11,7 @@ title: "STAD29"
 Welcome to the home page for STA 1007 / STAD29. This is the place to look for all things course-related (notes, assignments, announcements etc., linked above) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
 
 
-## News
+## News (newest first)
 
+- 2019-06-20 15:30: Lecture notes and code up, miscellaneous tinkering.
 - 2019-05-28 11:30: a distant hello from the past.
