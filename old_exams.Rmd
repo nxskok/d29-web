@@ -2,16 +2,14 @@
 title: "Old exams"
 ---
 
-Work required: process old exams with answers (possibly automate production of exams with answers)
-
 ## Old midterm exams
 
-Year  | Exam                     | Figures
-------|--------------------------|----------------------------
-2016  | [exam](midterm-20161.pdf)  | [figures](midterm-20161-f.pdf)
-2017  | [exam](midterm-20171.pdf)  | [figures](midterm-20171-f.pdf)
-2018  | [exam](midterm-20181.pdf)  | [figures](midterm-20181-f.pdf)
-2019  | [exam](midterm-20191.pdf)  | [figures](midterm-20191-f.pdf)
+Year  | Exam                       | Figures                        | Solutions
+------|----------------------------|--------------------------------|------------------------------
+2016  | [exam](midterm-20161.pdf)  | [figures](midterm-20161-f.pdf) | [solutions](midterm-20161-s.pdf)
+2017  | [exam](midterm-20171.pdf)  | [figures](midterm-20171-f.pdf) | [solutions](midterm-20171-s.pdf)
+2018  | [exam](midterm-20181.pdf)  | [figures](midterm-20181-f.pdf) | [solutions](midterm-20181-s.pdf)
+2019  | [exam](midterm-20191.pdf)  | [figures](midterm-20191-f.pdf) | [solutions](midterm-20191-s.pdf)
 
 
 ## Old final exams
