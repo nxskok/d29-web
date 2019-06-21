@@ -16,8 +16,9 @@ Year  | Exam                     | Figures
 
 ## Old final exams
 
-Year  | Exam                     | Figures
-------|--------------------------|----------------------------
-2017  | [exam](final-20171.pdf)  | [figures](final-20171-f.pdf)
-2018  | [exam](final-20181.pdf)  | [figures](final-20181-f.pdf)
-2019  | [exam](final-20191.pdf)  | [figures](final-20191-f.pdf)
+Year  | Exam                     | Figures                      | Solutions
+------|--------------------------|------------------------------|---------------------------------
+2016  | [exam](final-20161.pdf)  | [figures](final-20161-f.pdf) | [solutions](final-20161-s.pdf) 
+2017  | [exam](final-20171.pdf)  | [figures](final-20171-f.pdf) | [solutions](final-20171-s.pdf) 
+2018  | [exam](final-20181.pdf)  | [figures](final-20181-f.pdf) | [solutions](final-20181-s.pdf) 
+2019  | [exam](final-20191.pdf)  | [figures](final-20191-f.pdf) | [solutions](final-20191-s.pdf) 
