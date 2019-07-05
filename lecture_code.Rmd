@@ -2,6 +2,12 @@
 title: "Lecture code"
 ---
 
+- One of these:
+  - **In R Studio Cloud**, go to Your Workspace, and look for New Project. Click on the down arrow, and select New Project from Git Repo. In the box asking for a URL, enter `https://github.com/nxskok/stad29-notes`. This will get you an exact copy of all my code notebooks (from which the slides were built). You can give the project any name you like.
+  - **In R Studio on your own computer**, select File and New Project. In the pop-up, click Version Control and Git. In the Repository URL box, enter `https://github.com/nxskok/stad29-notes`. Enter a name for the project in the next box, and if you don't like R Studio's choice of the place this will be a subfolder of, click Browse to change it. Click Create Project when you are happy. 
+
+Or:
+
 - R notebooks with lecture code, by section:
   - [regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bRegression.Rmd)
   - [logistic regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bLogistic.Rmd)

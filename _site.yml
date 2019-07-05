@@ -9,14 +9,6 @@ navbar:
       href: slides_d29.pdf
     - text: "Lecture code (R Notebooks)"
       href: lecture_code.html
-    - text: "alt lecture code"
-      menu:
-        - text: "Regression"
-          href: https://raw.githubusercontent.com/nxskok/stad29-notes/master/bRegression.Rmd
-        - text: "Logistic regression"
-          href: https://raw.githubusercontent.com/nxskok/stad29-notes/master/bLogistic.Rmd
-        - text: "Survival analysis"
-          href: https://raw.githubusercontent.com/nxskok/stad29-notes/master/bSurvival.Rmd
     - text: "Quercus"
       href: http://q.utoronto.ca
     - text: "PASIAS"
