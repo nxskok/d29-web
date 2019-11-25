@@ -13,5 +13,6 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2019-11-25 11:00: Added section on dates and times to lecture notes.
 - 2019-06-20 15:30: Lecture notes and code up, miscellaneous tinkering.
 - 2019-05-28 11:30: a distant hello from the past.
