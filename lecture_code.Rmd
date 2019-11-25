@@ -9,6 +9,7 @@ title: "Lecture code"
 Or:
 
 - R notebooks with lecture code, by section:
+  - [Dates and times](https://raw.githubusercontent.com/nxskok/stad29-notes/master/dates_and_times.Rmd)
   - [regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bRegression.Rmd)
   - [logistic regression](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bLogistic.Rmd)
   - [survival analysis](https://raw.githubusercontent.com/nxskok/stad29-notes/master/bSurvival.Rmd)
