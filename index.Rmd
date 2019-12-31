@@ -13,7 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
-- 2019-12-29 15:35: lectures start in week 1 (January 8) and run Wednesdays 14:00-16:00 in HW 215. "Practicals" start in week 2 (January 13) and are Mondays 16:00-17:00 in BV 498. The practicals are like the tutorials in C32: I have booked a computer lab and will be there to help with anything course-related. I also have "ordinary" office hours in IC 471. 
+- 2019-12-31 13:30: We get right down to business. Week 1's lecture will look at dates and times, and some regression stuff (beyond what we did in C32). 
+Assignment 1 is based on the first lecture, and will be due the following Tuesday. Here is the
+draft [Assignment 1](a1.pdf). As usual, if we don't get as far as all of that, I'll move what we don't look at in week 1 to a later assignment. 
+
+- 2019-12-31 13:30: **For those taking STA 1007**: make sure you have access to R before we start. This could be having R installed on your computer, or having an account on R Studio Cloud. Pages 18--30, or pages 31--41, of [this](http://ritsokiguess.site/STAC32/slides_c32.pdf) will help. (Pick one.) It would also be good to follow along with [this](http://ritsokiguess.site/STAC32/a0.pdf) and make sure you get the same things I did. Looking further ahead, the students in STAD29 have previously taken my course STAC32, so you might find [my C32 R lecture notes](http://ritsokiguess.site/STAC32/slides_c32.pdf) helpful. (That is, the same document from which the R access instructions came.) I am open to having R catchup sessions as necessary after lecture (if I have any voice left) for STA 1007 folks who need them. 
+
+- 2019-12-29 15:35: lectures start in week 1 (January 8) and run Wednesdays 14:00-16:00 in HW 215. "Practicals" start in week 2 (January 13) and are Mondays 16:00-17:00 in BV 498. The practicals are like the tutorials in C32: I have booked a computer lab and I will be there to help with anything course-related. I also have "ordinary" office hours in IC 471. 
 
   - If you are taking STA 1007, it helps if you know some R, but I will help you get up to speed if needed. I'd like it if you introduce yourself to me at the first class.
 
