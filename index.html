@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -334,6 +322,8 @@ $(document).ready(function () {
 <div id="news-newest-first" class="section level2">
 <h2>News (newest first)</h2>
 <ul>
+<li><p>2020-01-08 16:30: <a href="a1.pdf">Assignment 1</a> is good to go. Hand in questions 2 and 4. I am about to put it up on Quercus.</p></li>
+<li><p>2020-01-08 16:25: I had a bit of trouble with the lecture notes. If the link at the top doesn’t work, <a href="slides_d29_temp.pdf">use this link</a> instead for the time being.</p></li>
 <li><p>2019-12-31 13:30: We get right down to business. Week 1’s lecture will look at dates and times, and some regression stuff (beyond what we did in C32). Assignment 1 is based on the first lecture, and will be due the following Tuesday. Here is the draft <a href="a1.pdf">Assignment 1</a>. As usual, if we don’t get as far as all of that, I’ll move what we don’t look at in week 1 to a later assignment.</p></li>
 <li><p>2019-12-31 13:30: <strong>For those taking STA 1007</strong>: make sure you have access to R before we start. This could be having R installed on your computer, or having an account on R Studio Cloud. Pages 18–30, or pages 31–41, of <a href="http://ritsokiguess.site/STAC32/slides_c32.pdf">this</a> will help. (Pick one.) It would also be good to follow along with <a href="http://ritsokiguess.site/STAC32/a0.pdf">this</a> and make sure you get the same things I did. Looking further ahead, the students in STAD29 have previously taken my course STAC32, so you might find <a href="http://ritsokiguess.site/STAC32/slides_c32.pdf">my C32 R lecture notes</a> helpful. (That is, the same document from which the R access instructions came.) I am open to having R catchup sessions as necessary after lecture (if I have any voice left) for STA 1007 folks who need them.</p></li>
 <li><p>2019-12-29 15:35 edited 2020-01-08 10:45: lectures start in week 1 (January 8) and run Wednesdays 14:00-16:00 in HW 215. “Practicals” start in week 2 (January 13) and are Mondays 16:00-17:00 in BV 498. The practicals are like the tutorials in C32: I have booked a computer lab and I will be there to help with anything course-related. I also have “ordinary” office hours in IC 471, on Wednesday morning. The idea is if you have questions about the assignment, raise them in practical; if you have questions about the course material, ask me after class or in office hours. If you can’t make it to the practical, I might also be available Monday afternoon after 13:00.</p>
@@ -366,6 +356,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
