@@ -15,7 +15,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 - 2020-01-08 16:30: [Assignment 1](a1.pdf) is good to go. Hand in questions 2 and 4. I am about to put it up on Quercus.
 
-- 2020-01-08 16:25: I had a bit of trouble with the lecture notes. If the link at the top doesn't work, [use this link](slides_d29_temp.pdf) instead for the time being.
+- 2020-01-08 16:25: I had a bit of trouble with the lecture notes. If the link at the top doesn't work, [use this link](slides_d29_temp.pdf) instead for the time being. (It has the wrong office hours: ignore that.)
 
 - 2019-12-31 13:30: We get right down to business. Week 1's lecture will look at dates and times, and some regression stuff (beyond what we did in C32). 
 Assignment 1 is based on the first lecture, and will be due the following Tuesday. Here is the
