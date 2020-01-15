@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-01-15 12:15: [My solutions to assignment 1](a1.pdf).
+
 - 2020-01-15 11:15: on the agenda today: some more regression stuff, with some old ideas and some new ones; the start of logistic regression.
 
 - 2020-01-15 11:00: a short [Assignment 2](a2.pdf), due next week. (It was longer, but I realized I might not get to everything in the original Assignment 2 today, so some of it is deferred to Assignment 3, which you can expect to be longer.) The question is on a "simple" logistic regression.
