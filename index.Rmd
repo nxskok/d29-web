@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-01-15 11:00: a short [Assignment 2](a2.pdf), due next week. (It was longer, but I realized I might not get to everything in the original Assignment 2 today, so some of it is deferred to Assignment 3, which you can expect to be longer.)
+
 - 2020-01-13 15:50: the references to PASIAS in question 3 of assignment 1 appear to be to the wrong chapter, since they are meant to be practice for regression! Change chapter 13 to chapter 14, and you should be good.
 
 
