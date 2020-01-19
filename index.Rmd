@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-01-19 17:00: tutorial, um, "practical", tomorrow for [Assignment 2](a2.pdf). 
+I am working on Assignment 3, which is horrifically long (it has three questions to hand in right now, but I may shift one of them to assignment 4.)
+
+
+
 - 2020-01-15 12:15: [My solutions to assignment 1](a1.pdf).
 
 - 2020-01-15 11:15: on the agenda today: some more regression stuff, with some old ideas and some new ones; the start of logistic regression.
