@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-01-20 22:30: first draft of [Assignment 3](a3.pdf), the first two questions of which you can do now. Yes, this is rather long, but you just had a short one. I am now working on assignment 4 (trying to stay ahead).
+
 - 2020-01-19 17:00: tutorial, um, "practical", tomorrow for [Assignment 2](a2.pdf). 
 I am working on Assignment 3, which is horrifically long (it has three questions to hand in right now, but I may shift one of them to assignment 4.)
 
