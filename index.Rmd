@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-01-21 12:50: scheduled midterm time is Saturday, February 29, 2020	17:00-19:00	in SW309.
+
+
+- 2020-01-21 12:45: [My solutions to assignment 2](a2.pdf)
+
 - 2020-01-21 16:30: on the agenda this week: logistic regression with a more-than-two-category response, for example high-medium-low rather than yes-no. There are two variations, depending on whether the response categories are ordered or not.
 
 - 2020-01-21 16:25: draft [Assignment 4](a4.pdf), part of which I expect you'll be able to do after this week's lecture. Also long (sorry), but I wanted to make sure you had practice with as much as possible, to reduce the chance of surprises on the exams.
