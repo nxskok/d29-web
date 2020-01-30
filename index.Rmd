@@ -13,7 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
-- 2020-01-30 07:00: [my solutions to assgt 3](a3.pdf).
+- 2020-01-30 07:00: my solutions to assgt 3 taken down temporarily; will go back up later.
 
 - 2020-01-30 06:00: assignment 3 is now closed, and assignment 4 is now up (on the material in yesterday's class). 
 Remember what I said in C32: don't expect assignments to be extended because you cannot access software: *it is up to you to allow enough time*. The first problems on `rstudio.cloud` were noted midday on January 28. If you leave an assignment until late, you are *gambling* that you will be able to finish it in time. For the next assignment, *start it early* (you have everything now that you need to do it), and be prepared to *use R Studio on your own computer*. The instructions for that are [here](http://ritsokiguess.site/STAC32/slides_c32.pdf), starting at page 31.
