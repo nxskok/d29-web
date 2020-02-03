@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-03 11:00: I (Ken) will be back next week. Booked my flight back today.
+
+- 2020-02-03 10:55: draft [Assignment 5](a5.pdf), to be doable after Wednesday's class. Let me know if it isn't.
+
 - 2020-02-03 06:45: my [lecture notes](slides_d29.pdf) had some things off the side for predictions with survival analysis. This has now been fixed. The slides now numbered 219--221 might give you a hint for the assignment. 
 - 2020-02-01 11:48: if you are in the habit of starting a new project for each assignment, you might run into trouble doing that this time, 
 since there is an issue with installing `dplyr` at the
