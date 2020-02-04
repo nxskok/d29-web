@@ -13,6 +13,12 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-04 12:00: Nnenna has another commitment later in the afternoon downtown tomorrow, so her plan is to lecture for *one* hour tomorrow, and then video-record the second hour later. I will pick up next week from wherever she gets to.
+
+- 2020-02-04 11:55: the issue with `dplyr` on R Studio Cloud seems to have been fixed. (I successfully installed the whole tidyverse on a new project there, using dodgy
+English hotel wifi, so if it works there, it should work for you.)
+
+
 - 2020-02-03 11:00: I (Ken) will be back next week. Booked my flight back today.
 
 - 2020-02-03 10:55: draft [Assignment 5](a5.pdf), to be doable after Wednesday's class. Let me know if it isn't.
