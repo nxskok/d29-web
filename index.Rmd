@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-06 10:00: the [corrected assignment 5](a5.pdf) with the proper link to the batteries data is up on Quercus. I am keeping an eye on whether you will have a fair chance to work on question 3 (I know you only had a one-hour lecture) and will postpone it to a future assignment if I think you won't have enough time to think about it.
+
 - 2020-02-06 09:45: back home (and, somewhat, awake). I made a mistake with the batteries data file in the current assignment: the correct link is [here](batteries.txt). I will fix up the assignment file on Quercus shortly.
 
 <p> Aside: while I was in England and posting here, I had to remember to subtract five hours from the time there when I typed the timestamps! That explains the early morning timestamps on some of them. I don't *actually* get up that early!
