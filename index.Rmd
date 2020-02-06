@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-06 09:45: back home (and, somewhat, awake). I made a mistake with the batteries data file in the current assignment: the correct link is [here](batteries.txt). I will fix up the assignment file on Quercus shortly.
+
+<p> Aside: while I was in England and posting here, I had to remember to subtract five hours from the time there when I typed the timestamps! That explains the early morning timestamps on some of them. I don't *actually* get up that early!
+
 - 2020-02-04 12:00: Nnenna has another commitment later in the afternoon downtown tomorrow, so her plan is to lecture for *one* hour tomorrow, and then video-record the second hour later. I will pick up next week from wherever she gets to.
 
 - 2020-02-04 11:55: the issue with `dplyr` on R Studio Cloud seems to have been fixed. (I successfully installed the whole tidyverse on a new project there, using dodgy
