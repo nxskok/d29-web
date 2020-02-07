@@ -13,6 +13,9 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-07 15:30: I met with Nnenna this afternoon to hear about where she was at with you. She finished at 3 last Wednesday (because she had to go downtown)
+and so the lecture that's up is only one hour long. She will be recording the second hour today. The second hour includes simple effects, which appear in question 3 of the current assignment. This is supposed to go up tonight, so I will leave it on the assignment for now. If it turns out not to go up tonight, I will move it to the next assignment. (For those wanting a head start on this stuff, look at pages 276--290 of the lecture notes.) I plan to skip the stuff on equivalence and noninferiority, and kick off next week with contrasts, page 306. 
+
 - 2020-02-06 10:30: my [solutions to Assignment 4](a4.pdf).
 
 - 2020-02-06 10:00: the [corrected assignment 5](a5.pdf) with the proper link to the batteries data is up on Quercus. I am keeping an eye on whether you will have a fair chance to work on question 3 (I know you only had a one-hour lecture) and will postpone it to a future assignment if I think you won't have enough time to think about it.
