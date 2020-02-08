@@ -13,6 +13,9 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-08 16:45: I just checked the WebOption page for our course, and "Lecture 5", from Wednesday, is only one hour long. Since the material on simple effects is not up yet, I will move that question from assignment 5 to assignment 6, so your
+assignment this week only has one question on it, and I now have a draft assignment 6 that I can post. (The other question on assignment 6 will be doable after the first hour of this week's lecture, as plans stand now.)
+
 - 2020-02-07 15:30: I met with Nnenna this afternoon to hear about where she was at with you. She finished at 3 last Wednesday (because she had to go downtown)
 and so the lecture that's up is only one hour long. She will be recording the second hour today. The second hour includes simple effects, which appear in question 3 of the current assignment. This is supposed to go up tonight, so I will leave it on the assignment for now. If it turns out not to go up tonight, I will move it to the next assignment. (For those wanting a head start on this stuff, look at pages 276--290 of the lecture notes.) I plan to skip the stuff on equivalence and noninferiority, and kick off next week with contrasts, page 306. 
 
