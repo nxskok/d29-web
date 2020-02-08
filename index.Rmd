@@ -13,11 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
-- 2020-02-08 16:45: I just checked the WebOption page for our course, and "Lecture 5", from Wednesday, is only one hour long. Since the material on simple effects is not up yet, I will move that question from assignment 5 to assignment 6, so your
-assignment this week only has one question on it, and I now have a draft assignment 6 that I can post. (The other question on assignment 6 will be doable after the first hour of this week's lecture, as plans stand now.)
+- 2020-02-08 17:15: OK, so I think I am sorted out. Here is the now shortened [Assignment 5](a5.pdf) with only one question, up on Quercus. The last two parts are about simple effects; if you haven't done those yet, *let me know* and I'll move those off assignment 5 (and onto the beginning of assignment 6, which would then have three questions, the first being short). Here also is a [draft Assignment 6](a6.pdf). It's difficult to coordinate a course when you're not teaching it! Let's hope that we can get organized this week.
+
+- 2020-02-08 16:45: I just checked the WebOption page for our course, and "Lecture 5", from Wednesday, is only one hour long. Since we have not reached the material on analysis of covariance yet, I will move that question from assignment 5 to assignment 6, so your
+assignment this week only has one question on it, and I now have a draft assignment 6 that I can post. (The questions on assignment 6 will be doable after this week's lecture, as plans stand now.) I *hope* that you can manage the batteries question, which includes simple effects; this material is slides 285--289 of the lecture notes. (I apologize for getting out of sync, if I have.)
 
 - 2020-02-07 15:30: I met with Nnenna this afternoon to hear about where she was at with you. She finished at 3 last Wednesday (because she had to go downtown)
-and so the lecture that's up is only one hour long. She will be recording the second hour today. The second hour includes simple effects, which appear in question 3 of the current assignment. This is supposed to go up tonight, so I will leave it on the assignment for now. If it turns out not to go up tonight, I will move it to the next assignment. (For those wanting a head start on this stuff, look at pages 276--290 of the lecture notes.) I plan to skip the stuff on equivalence and noninferiority, and kick off next week with contrasts, page 306. 
+and so the lecture that's up is only one hour long. She will be recording the second hour today. The second hour includes analysis of covariance, which appears in question 3 of the current assignment. This is supposed to go up tonight, so I will leave it on the assignment for now. If it turns out not to go up tonight, I will move it to the next assignment. (For those wanting a head start on this stuff, look at pages 276--290 of the lecture notes.) I plan to skip the stuff on equivalence and noninferiority, and kick off next week with contrasts, page 306. 
 
 - 2020-02-06 10:30: my [solutions to Assignment 4](a4.pdf).
 
