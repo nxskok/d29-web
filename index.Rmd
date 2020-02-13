@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-12 21:00: the course [WebOption page](https://lecturecast.utsc.utoronto.ca/?id=60a56cc8cc) now features a lengthened Lecture 5 (the hour that Nnenna presented in class, plus the extra hour she recorded afterwards), as well as Lecture 6 (me, today). This gives you what you need to tackle Assignment 5.
+
 - 2020-02-12 12:00 edited 12:45: one of our number has discovered a problem with the 2018 midterm: the last two plots are supposed to be survival curves and an interaction plot, and they are rather obviously not that. I need to figure out what happened. (They were correct on the original exam, that I know.) I have now fixed this.
 
 - 2020-02-12 10:45: Nnenna recorded the second hour of her lecture from last week, the piece on two-factor ANOVA with simple effects, which I am 
