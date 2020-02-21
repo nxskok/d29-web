@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-21 16:30: exam sent for printing. It came out to 9 pages after I added space for you to write your answers. (The last page is blank, in case you need extra space for writing.)
+
 - 2020-02-21 15:00: I've been spending reading week working on your midterm. The coverage is whatever we did up to and including the week before reading week (which might include some of the material on [Assignment 6](a6.pdf).) The exam has five questions worth a total of 73 points (there are 30 question parts altogether). I am currently adding spaces for you to write onto the pages of the exam.
 
 - 2020-02-12 21:00: the course [WebOption page](https://lecturecast.utsc.utoronto.ca/?id=60a56cc8cc) now features a lengthened Lecture 5 (the hour that Nnenna presented in class, plus the extra hour she recorded afterwards), as well as Lecture 6 (me, today). This gives you what you need to tackle Assignment 5.
