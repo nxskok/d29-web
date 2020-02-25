@@ -13,7 +13,9 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
-- 2020-02 24 21:10: on the agenda for this week: multivariate analysis of variance (1st half) plus repeated measures (2nd half). This material is not on the midterm, but you can and should expect to see it on the final.
+- 2020-02-25 14:20: on the old exams page, it looks as if the column "exams" was linking to the wrong files, which I have now fixed. This column should be questions without answers, for practicing on (and then you can look at the copies in the Answers column to see how well you did).
+
+- 2020-02-24 21:10: on the agenda for this week: multivariate analysis of variance (1st half) plus repeated measures (2nd half). This material is not on the midterm, but you can and should expect to see it on the final.
 
 - 2020-02-24 21:00: [Assignment 6](a6.pdf) has gained a question, on some of the material we will do in this week's class. The assignment isn't due until Mar 10, so there is no rush, but you would do well to look through it in case there is anything there that might be on the midterm. 
 
