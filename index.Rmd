@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-02-26 12:30: "campus remains open".
+
 - 2020-02-26 08:30: campus, it says, is open today, so as of now, today's class goes ahead. I'm not sure about getting home afterwards, but that we'll deal with later. (Check the [campus status page](https://www.utsc.utoronto.ca/home/campus-status-and-announcements) at noon for any updates.)
 
 - 2020-02-25 14:20: on the old exams page, it looks as if the column "exams" was linking to the wrong files, which I have now fixed. This column should be questions without answers, for practicing on (and then you can look at the copies in the Answers column to see how well you did).
