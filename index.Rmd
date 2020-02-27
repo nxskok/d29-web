@@ -13,7 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
-- 2020-02-26 22:00: [My solutions to assignment 5](a5.pdf); also, [Assignment 6](a6.pdf) is up, but not due until March 10. 
+- 2020-02-26 22:00: three things:
+  - [My solutions to assignment 5](a5.pdf); also, [Assignment 6](a6.pdf) is up, but not due until March 10. 
+  - I will eventually figure out how to share the "mixed models" code with you from the end of today's class.
+  - No tutorial next Monday since (i) you have no assignment due, (ii) I will be marking your midterms.
 
 - 2020-02-26 12:30: pre-exam office hours *Friday* 13:00-15:00 in my office. 
 
