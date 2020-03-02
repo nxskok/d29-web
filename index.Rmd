@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-02 14:30: 3(d) done. I suspect I have some slow stuff coming up.
+
 - 2020-03-02 14:00: back to work. 3(c) done. Need tea.
 
 - 2020-03-01 22:54: a reminder that my [continually-updating solutions](midterm-20201.pdf) are available. If you missed the midterm, for illness or some other reason, you would do well to write [this year's midterm](midterm-20201-q.pdf) as a practice exam. Here are [the figures](midterm-20201-f.pdf) that go with it. 
