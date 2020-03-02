@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-01 22:54: a reminder that my [continually-updating solutions](midterm-20201.pdf) are available. If you missed the midterm, for illness or some other reason, you would do well to write [this year's midterm](midterm-20201-q.pdf) as a practice exam. Here are [the figures](midterm-20201-f.pdf) that go with it. 
+
 - 2020-03-01 22:35: 3(b) done. I am also done for tonight. I might make some progress tomorrow in the afternoon and during your tutorial time (there is no tutorial tomorrow). My other course has its midterm on Wednesday so tomorrow morning is for helping those students get prepared. I'm hoping I can snatch enough other time this week to get this exam done in the next few days.
 
 - 2020-03-01 21:50: Crowdmark tells me that I got all the way through 3(a) in 15 minutes. 
