@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-04 11:40: I am thinking that the midterm was not too long as such, but it was (i) fairly hard and (ii) there were some complicated questions (I should learn to ask only one thing in each question part). The combination of hardness and complicated questions made the exam hard to finish in the time available. I will take a look at the marks when I have finished 5(f), and see if I need to make any adjustments. For the final exam, I certainly plan to simplify the questions. That means making them easier to understand, not necessarily easier to do! For example, 5(e) on the midterm asks you three things in one question part, which is too many. Also, I will think carefully about the hardness/time combination. 
+
+- 2020-03-04 11:40: 5(e) done. One part to go.
+
 - 2020-03-04 12:40: [Assignment 6](a6.pdf) is up on Quercus, due next Tuesday. I think you can probably do it now.
 
 - 2020-03-03 16:30: 5(d) is done. I am getting slower and slower. I am out tonight, and tomorrow I have your lecture plus my other midterm in the evening, so I don't expect to get much grading done then. Maybe Thursday morning I can finish it off.
