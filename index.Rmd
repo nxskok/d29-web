@@ -13,7 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
-- 2020-03-09 13:30: a draft [Assignment 7](a7.pdf). This will be the last assignment to hand in. I think you can do it now, though the first half of this week's lecture may help you with one of the questions. I need to edit it to include PASIAS material to help you with the first question.
+- 2020-03-09 13:30: a draft [Assignment 7](a7.pdf). This will be the last assignment to hand in. I think you can do it now, though the first half of this week's lecture may help you with one of the questions. This may undergo further editing.
 
 - 2020-03-05 17:00: you should have email in your utoronto inbox from Crowdmark with your graded exam in it. Read your graded exam with [my solutions](midterm-20201.pdf) to understand why you got the  mark you did on each question. 
 
