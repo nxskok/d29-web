@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-12 11:30: I can't remember what I was going to say here. Oh yeah, [my solutions to assignment 6](a6.pdf).
+
 - 2020-03-11 21:45: Assignment 7 appears to be good, and is now up on Quercus. One question on repeated measures (from last week), and one on discriminant analysis. Chapter 26 of [PASIAS](http://ritsokiguess.site/pasias/) contains problems on cluster analysis (the second half of today and first half of next week). I am probably going to skip multidimensional scaling because I think PCA/factor analysis is more generally useful, and the stuff on log-linear models is a good way to finish the course. It looks as if we have three more weeks.
 
 - 2020-03-09 13:30: a draft [Assignment 7](a7.pdf). This will be the last assignment to hand in. I think you can do it now, though the first half of this week's lecture may help you with one of the questions. This may undergo further editing.
