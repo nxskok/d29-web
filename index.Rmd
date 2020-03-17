@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-17 16:05: 
+  - in case there is any confusion: the project (if you choose to do it) and the "take-home final" are two different things. The project is and will remain optional. My intention in this course has been that projects are individual things, but I am willing to negotiate "small groups", especially this time. 
+  - I usually allow the final exam mark to replace the midterm mark if it is higher, but I am unwilling to do that this time, because the midterm is our only invigilated assessment.
+  - I plan to screencast "tomorrow afternoon's lecture" tonight or tomorrow morning. I will probably do it in two pieces. There may be a delay before it goes up; I know WebOption is very busy right now.
+
 - 2020-03-16 20:30: I think my thoughts of yesterday will become official in some fashion. It looks as if we can have an assignment-like final (perhaps dressed up as a "take-home exam"). I have also opened up the Quercus discussion board, which you can use for anything non-personal related to this course, or respond to the comments of others. You can start new threads if you so desire. Assignments will indeed become best 6 out of 7, so there is no pressure to complete the last one if you are struggling to get it to work. WebOption will continue to work for courses that have it (such as this one), so you will find my screencasts there.
 
 - 2020-03-15 20:55: some thoughts (which are only thoughts right now, nothing official here):
