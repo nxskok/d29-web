@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-18 15:40: "today's lecture" in two parts: [K-means clustering](https://play.library.utoronto.ca/2fda5df114e0cad4fb206bf6ef2e4f9e) and [principal  components](https://play.library.utoronto.ca/1757ef0aafba92a7c4218069871f026c). Let me know if any problems accessing those. They are going to WebOption also, though there may be a delay getting them up there.
+
 - 2020-03-17 16:05: 
   - in case there is any confusion: the project (if you choose to do it) and the "take-home final" are two different things. The project is and will remain optional. My intention in this course has been that projects are individual things, but I am willing to negotiate "small groups", especially this time. 
   - I usually allow the final exam mark to replace the midterm mark if it is higher, but I am unwilling to do that this time, because the midterm is our only invigilated assessment.
