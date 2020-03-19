@@ -17,6 +17,12 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
   - re final "at-home" exam: I plan to give you something like 24 hours to get it done, even though there will only be three hours of work at maximum in it. It will be due at the end of our originally-scheduled exam time. I wanted to allow some extra time for internet problems, extra responsibilities, etc. So prepare to carve yourself out three hours or so to work on it. This is all subject to whatever happens between now and then, of course. Accessability students will have access to the exam earlier, or something similar, according to their accommodations.
   - I don't plan to enforce the "must get 50% on the final" this time, though I am guessing that everyone will get 50% anyway.
   - yesterday's lecture, recorded in two parts, is now up on WebOption. (They spliced them together, so it's one thing there.)
+  - my solutions to [Assignment 7](a7.pdf).
+  - the instructions, such as they are, for the (optional) project:
+    - find a data set (eg. from your area of study) that enables analysis with something you have learned in this course, hopefully to learn something about the data that you would not have been able to find out otherwise
+    - write a report on what you found, in the same style as for C32 (introduction, analysis, conclusion)
+    - due by 11:59pm on Friday April 3.
+    - That's it. Very open-ended.
 
 - 2020-03-18 15:45: I intend to be more generous than usual in accepting late assignments, so will hold off on putting up my solutions for a little bit. Going for a walk now. I could do with getting outside.
 
