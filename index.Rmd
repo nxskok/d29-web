@@ -13,9 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-19 14:50: 
+  - re final "at-home" exam: I plan to give you something like 24 hours to get it done, even though there will only be three hours of work at maximum in it. It will be due at the end of our originally-scheduled exam time. I wanted to allow some extra time for internet problems, extra responsibilities, etc. So prepare to carve yourself out three hours or so to work on it. This is all subject to whatever happens between now and then, of course. Accessability students will have access to the exam earlier, or something similar, according to their accommodations.
+  - I don't plan to enforce the "must get 50% on the final" this time, though I am guessing that everyone will get 50% anyway.
+  - yesterday's lecture, recorded in two parts, is now up on WebOption. (They spliced them together, so it's one thing there.)
+
 - 2020-03-18 15:45: I intend to be more generous than usual in accepting late assignments, so will hold off on putting up my solutions for a little bit. Going for a walk now. I could do with getting outside.
 
-- 2020-03-18 15:40: "today's lecture" in two parts: [K-means clustering](https://play.library.utoronto.ca/2fda5df114e0cad4fb206bf6ef2e4f9e) and [principal  components](https://play.library.utoronto.ca/1757ef0aafba92a7c4218069871f026c). Let me know if any problems accessing those. They are going to WebOption also, though there may be a delay getting them up there.
+- 2020-03-18 15:40: "today's lecture" in two parts: [K-means clustering](https://play.library.utoronto.ca/2fda5df114e0cad4fb206bf6ef2e4f9e) and [principal  components](https://play.library.utoronto.ca/1757ef0aafba92a7c4218069871f026c). Let me know if any problems accessing those. They are going to WebOption also, though there may be a delay getting them up there. 
 
 - 2020-03-17 16:05: 
   - in case there is any confusion: the project (if you choose to do it) and the "take-home final" are two different things. The project is and will remain optional. My intention in this course has been that projects are individual things, but I am willing to negotiate "small groups", especially this time. 
