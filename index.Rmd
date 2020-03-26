@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-03-25 22:20: the "at-home final exam" is under construction, and currently has two questions. I realize that I gave you guys a harder midterm than I might have done, so I plan to take it easy on you with the final in two ways: keeping the final exam weight the same as the original plan (in my other course I am reducing it), and trying to set a straightforward exam. "Straightforward", however, still means that you need to know your stuff, and is not necessarily the same as "easy".
+
 - 2020-03-24 15:25: tomorrow's [lecture video](https://play.library.utoronto.ca/c94149044df6611822ec59cfd0414dc3). This is only about an hour long, but it's as far as I intend to go this week. (I might make an optional video about confirmatory factor analysis: we'll see.) Next week is the last week; I have some stuff on frequency table analysis for then. (There is a piece in the lecture notes about time series, which I will skip.)
 
 - 2020-03-20 23:00: Not much to say today. I hope you are all keeping as well as possible, given the circumstances. I have periods where it is very hard to concentrate on anything; I expect you are having those too. Please look after yourselves. You have a lot to contribute to this world.
