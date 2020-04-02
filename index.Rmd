@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-04-02 11:40: This semester, you have until April 25 to drop the course, make it CR/NCR, etc, as appropriate. I normally release final exam marks and graded final exams as soon as they are available, but will not be doing so this time because you need to make these decisions before you receive, or can work out, your course grades. You will be receiving all your course grades after April 25.
+
+- 2020-04-02 11:35: I draw your attention to [this document](https://hive.utsc.utoronto.ca/public/dean/academic%20administrators/DCD%202019-20/MEMO_Final_Exams_AcademicAdministrators_March2020.pdf) from the Dean's office. Items 7, 9, and possibly 8 may apply to you. (Item 8 only applies if you have already submitted a request to graduate.) *Do not ask me for clarification on these*. This is all I know about them.
+
 - 2020-04-01 16:20: some thoughts about the final exam:
   - The exam will look like an assignment. You will need to be running code and getting output, and handing that in on Quercus.
   - The exam is open-book, open Internet. You can use anything that you find on websites, but you may not obtain help from other people.
@@ -20,7 +24,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
   - Expect to see mainly material from after the midterm, but you may need ideas from before the midterm or even from C32.
   - There will be about four questions, intended to take you three hours.
   - The exam will be open on Quercus for 12 hours. That is to say, it will become available on April 17 at 10:00am and will be due on April 17 at 10:00pm (22:00).  I am giving you extra time to allow for you being in a different time zone, having Internet problems, etc.
-  - Late exams may be subject to a penalty. If you have accommodations from Accessability, your exam is due as many minutes after 10:00 as you have minutes of accommodation. (Such an exam may be indicated as "late" on Quercus, but is on time if it is within your accommodation.)
+  - Late exams may be subject to a penalty. If you have accommodations from Accessability, your exam is due as many minutes after 10:00 as you have minutes of accommodation. (Such an exam may be indicated as "late" on Quercus, but is on time for me if it is within your accommodation.)
 
 - 2020-04-01 15:50: 
   - I just recorded the [final lecture](https://play.library.utoronto.ca/becfe181e320ed11d215d8373be517c6) and sent it to Weboption. 
