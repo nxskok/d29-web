@@ -13,6 +13,14 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-04-16 21:15: final "at-home" exam is tomorrow, Friday 17th: 
+  - It will become available at 10:00am, and will be due at 10:00pm. There may be a penalty for handing in late (a few minutes may be OK but don't try to take advantage).
+  - It should be about three hours of work. 
+  - The exam is open book and open Internet. If you can find it in your notes or on a web page somewhere, you are free to use it. You may *not* seek help from other people (eg. by asking a question in a forum; these are easily searchable).
+  - Hand it in like an assignment on Quercus (it actually *is* an assignment as far as Quercus is concerned). 
+  - You should aim to answer any questions yourself. If you need to make an assumption about what I meant, *clearly state* the assumption you make. If I think it is a reasonable reading of the question, I will give you due credit. If you have a situation where it is impossible to proceed, such as a data file that cannot be accessed, then send me email at `ken.butler@utoronto.ca`. (If a data file can be accessed but you cannot read it, that's your problem to solve.) I will get to emails when I can, but that may not be immediately.
+  - If you are with Accessability, you have an accommodation based on a 3-hour exam, which is extra time on the beginning, so that you will have the exam available before 10:00am, as many minutes before 10 as your accommodation is. 
+
 - 2020-04-15 00:50: I thought I put a note here about the last two lecture videos, which appear to have no sound. It seems that I didn't. Here is [lecture 11](https://play.library.utoronto.ca/c94149044df6611822ec59cfd0414dc3) and [lecture 12](https://play.library.utoronto.ca/becfe181e320ed11d215d8373be517c6). The sound should be OK on these.
 
 - 2020-04-15 00:30: coming back to this course now that my other one is done. I got a question about interactions and spaghetti plots, and decided to make [this video](https://play.library.utoronto.ca/7bc15ce5627699acb2ede08c926346d1) in response. If you have questions, send email. If yours is interesting, it might also get the video treatment.
