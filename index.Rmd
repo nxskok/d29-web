@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for al
 
 ## News (newest first)
 
+- 2020-04-29 12:30: If you plan to take your statistical skills into the business world, [this is a good read](https://medium.com/@ODSC/3-data-skills-to-get-hired-in-2020-73b4977bdc6f).
+
 - 2020-04-29 11:00: for your reference (only), here are [my solutions](http://ritsokiguess.site/STAD29/at-home-final.pdf) to the final exam. I have made my comments available to you on Quercus. If you have any issues, please reread the note dated April 24.
 <p>
 In retrospect, that exam was much too easy. There needed to be more explanation questions, things to test your actual understanding. I gave a lot of A grades this time. However, given the situation in which we find ourselves, I am OK with that this time. I figure that if you were able to hold yourself together enough to write any kind of decent exam, you deserved what you were able to earn for yourself. 
