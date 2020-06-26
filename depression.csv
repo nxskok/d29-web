@@ -1,4 +1,4 @@
-id,treatment,pre_test,month_1,month_3,month_6
+id,treatment,before,month_1,month_3,month_6
 1,ctr,296,175,187,242
 2,ctr,376,329,236,126
 3,ctr,309,238,150,173
