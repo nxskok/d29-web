@@ -1,4 +1,4 @@
-flight,distress,temp,date_as_number,date
+flight,distress,temp,date_as_number,date_as_text
 1,0,66,7772,"April 12, 1981"
 2,1 or 2,70,7986,"November 12, 1981"
 3,0,69,8116,"March 22, 1982"
