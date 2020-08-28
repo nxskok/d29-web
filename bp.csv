@@ -1,0 +1,9 @@
+personality,cholesterol,blood_pressure,count
+A,normal,normal,716
+A,normal,high,79
+A,high,normal,207
+A,high,high,25
+B,normal,normal,819
+B,normal,high,67
+B,high,normal,186
+B,high,high,22
