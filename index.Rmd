@@ -13,6 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-01-04 14:30: the course outline here will need editing to be suitable for this year's version of the course. I will do that later this week.
 - 2021-01-04 12:00: here is how I plan to run STAD29 online this year (a lot like STAC32 was):
   - I will record something like 2 hours of lecture material each week and make it available to you on Quercus. In the before-times, this was one two-hour lecture a week, but I may break it up into smaller pieces.
   - there is one hour of tutorial a week, on Monday at 4:00pm (I think it is labelled as a Practical). This is the same idea as C32: bring questions to a Zoom meeting, and we can talk about them. I will put the Zoom link on Quercus. You will find the statistical material to be harder than it was in C32, so make sure to get clarification when you need. 
