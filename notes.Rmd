@@ -1,0 +1,20 @@
+---
+title: "Lecture notes"
+---
+
+Lecture slides by section:
+
+- [Course outline](bOutline_slides.pdf)
+- [More about regression](bRegression_slides.pdf)
+- [Logistic regression](bLogistic_slides.pdf)
+- [Survival Analysis](bSurvival_slides.pdf)
+- [ANOVA revisited](bAnova_slides.pdf)
+- [Analysis of Covariance](bAncova_slides.pdf)
+- [Multivariate ANOVA](bManova_slides.pdf)
+- [Repeated Measures](bProfile_slides.pdf)
+- [Discriminant analysis](bDiscrim_slides.pdf)
+- [Cluster analysis](bCluster_slides.pdf)
+- [Principal Components](bPrincomp_slides.pdf)
+- [Factor analysis](bFactor_slides.pdf)
+- [Time Series](time-series_slides.pdf)
+- [Multiway frequency tables](bMultiway_slides.pdf)

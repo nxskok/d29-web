@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Lecture notes"
-      href: slides_d29.pdf
+      href: notes.html
     - text: "Lecture code (R Notebooks)"
       href: lecture_code.html
     - text: "Quercus"
