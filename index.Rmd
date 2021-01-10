@@ -13,6 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-01-10 11:50: I corrected a few (small) errors in the [course outline](bOutline_slides.pdf).
 - 2021-01-10 11:25: tutorials start on Monday Jan 18: that is to say, not tomorrow but in week 2. I am planning to record a short introduction today, and have the first week of actual material up by Wednesday. There will be an Assignment 1 on this, due on Jan 21. 
 - 2021-01-10 11:15: STA 1007 is open on Quercus; its Quercus page should redirect to the D29 one, which is what you'll be using if you are registered in 1007.
 - 2021-01-06 15:45: the [course outline](bOutline_slides.pdf) is now up to date.
