@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-01-156 12:50: some [reading](https://twitter.com/seanjtaylor/status/1349583012804005889) for you.
+
 - 2021-01-15 21:45: there is an Announcement on Zoom about the Monday tutorial (which is really more like an office hour: bring questions if you have them in preparation for the assignment that is coming). 
 
   For my other course, I just wrote out a suggested weekly schedule, which seems a little like overkill for this course, but anyway, here's how you might arrange it:
