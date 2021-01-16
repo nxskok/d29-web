@@ -13,6 +13,23 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-01-15 21:45: there is an Announcement on Zoom about the Monday tutorial (which is really more like an office hour: bring questions if you have them in preparation for the assignment that is coming). 
+
+  For my other course, I just wrote out a suggested weekly schedule, which seems a little like overkill for this course, but anyway, here's how you might arrange it:
+  
+  - Monday: if you have questions or confusions about the previous week's material, bring them to tutorial. (If everything is clear, no need to go to tutorial.)
+  - Tuesday: pick a time between now and Thursday to work on the week's assignment, some number of hours like 4 or 5 (this will be like C32). Assignments will be open on Tuesday morning and due on Thursday at 11:59pm, and the first one is next week.
+  - Wednesday: watch this week's lectures (if you can cope with two hours on one day; if not, split it over two days)
+  - Thursday: work through the PASIAS problems for this week's lectures.
+  - Friday: rest! (From this course at least.)
+
+- 2021-01-14 20:45: there are now three ways to watch the lecture videos: 
+  - using the video viewer on Quercus (as before)
+  - downloading the videos and watching them offline using a video player like [VLC](https://www.videolan.org/vlc/index.html). This is probably best if you have a shaky internet connection, or are a long way away, since this doesn't require your connection to stay up for any longer than the download takes.
+  - on YouTube.
+  
+  The links to these are next to the lecture videos on Quercus.
+
 - 2021-01-11 15:30: Lecture 1a (course outline) and Lecture 1b (first part of a review of regression) are now up on Quercus. There will be a Lecture 1c to complete the regression review. Assignment 1, when it comes out next week, will be on all of this.
 - 2021-01-10 11:50: I corrected a few (small) errors in the [course outline](bOutline_slides.pdf).
 - 2021-01-10 11:25: tutorials start on Monday Jan 18: that is to say, not tomorrow but in week 2. I am planning to record a short introduction today, and have the first week of actual material up by Wednesday. There will be an Assignment 1 on this, due on Jan 21. 
