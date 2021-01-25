@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-01-25 13:15: 
+  - I just put up Assignment 2. This will be available to you tomorrow morning, and is due Thursday night. The nature of assignments in this course is that the questions have a largish number of parts, because there are usually several things to work through, some of which are easy and some of which will require some thinking. I have, I hope, given you a generous time limit this time. There are two questions this week, as there usually will be because there are typically two main ideas in the week's lectures that I want you to understand.
+  - Lecture 3a is up already (I recorded it last week). It seems likely that Lecture 3b will go up tomorrow. This is on survival analysis. It might be a bit long, but I will record it and see how long it comes out. My tendency in this course is to go fairly slowly since there are a lot of ideas. You can always (at least on YouTube) speed up the playback if it is going too slowly for you.
+
 - 2021-01-24 21:35: The assignment 1s have been marked and the grades are up. Here are [my solutions](a1.pdf). It looks as if most people did well, but be warned: this was kind of a warmup, and the next assignment you will probably find (a) longer and (b) more difficult in comparison to this one.
 
 - 2021-01-20 17:05: I decided to record the third and last part of logistic regression today while I had everything set up (and the ideas were still fresh in my mind). You don't need to watch it until next week, however. The trouble with downloading the videos appears to be at my end; if that happens to you, the advice is the usual reboot, delete cookies etc. (For me, Brave doesn't like mymedia, Chrome was working until today, and Firefox is still working.) The next material after this is survival analysis; I would like to keep this together in one recording, but I fear it might go a bit long. I'll make a call  about that next week.
