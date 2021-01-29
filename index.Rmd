@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-01-29 12:20: if you are thinking about switching to R Studio on your own computer (perhaps because you are running short of free hours on `rstudio.cloud`), the instructions for doing so are in the C32 notes: pages 15 and on of [this](http://ritsokiguess.site/STAC32/running_R_slides.pdf). It is more work to get set up, but once you are up and running there are no limits on anything: run it as much as you like.
+
 - 2021-01-28 13:50: 
   - next week's Assignment 3 is up. It is rather long again, but one of the questions is really entirely straightforward (if you understand what you are doing, you ought not to have any trouble with it). 
   - since I've given you a heavy load so far, I want to give you a lighter week (in terms of lectures next week and the assignment following the week after). The material is called "analysis of variance revisited". This is a review of the anova stuff we did in C32, followed by some work on two-way anova and contrasts. Some of this might be familiar from B27 (or your equivalent course). I haven't recorded this yet; my daughter's room is cold today, so she is in my "recording studio" getting warmed up. Also, she has stolen my headphones. All of this is to say that I don't yet know how long that will come out, maybe an hour or so. The following section, on analysis of covariance, is short and not hard. Some of that will make up next week's lectures, and some of *that*, but not all of it, will feature in Assignment 4.
