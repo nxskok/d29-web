@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-01 11:00: The assignment 2s have been graded. I am about to post the marks. Note that there are comments, but they are in "question 1" of the quiz, not next to the overall mark as you might have expected. The comments that I saw refer you back to [my solutions](a2.pdf), so read with these to see what could have been done better (so that you will know for another time).
+
 - 2021-01-31 21:45: the two lectures for week 4 are up. I had hoped they would come out shorter, but they ended up not doing so. So I owe you a short week *next* week. The first part of part a is review, and part b is where it gets a bit more complicated. There seem to be a lot of PASIAS problems on contrasts (the end of part b) for some reason.
 
 - 2021-01-29 12:20: if you are thinking about switching to R Studio on your own computer (perhaps because you are running short of free hours on `rstudio.cloud`), the instructions for doing so are in the C32 notes: pages 15 and on of [this](http://ritsokiguess.site/STAC32/running_R_slides.pdf). It is more work to get set up, but once you are up and running there are no limits on anything: run it as much as you like.
