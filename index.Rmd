@@ -13,6 +13,10 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-08 14:30: Assignment 3 is graded and the grades are posted. Here are [my solutions](a3.pdf).
+
+- 2021-02-04 11:00: the timing on this week's assignment is what Quercus says: 4 hours. I didn't check the time on the document with the questions in it. Sorry.
+
 - 2021-02-02 15:00: next week's assignment 4 is ready to go. It has two questions, both going up to (f), which is about as short as I could make it while still giving you a decent engagement with the subject matter (that is to say, this week's lectures).
 
 - 2021-02-01 11:00: The assignment 2s have been graded. I am about to post the marks. Note that there are comments, but they are in "question 1" of the quiz, not next to the overall mark as you might have expected. The comments that I saw refer you back to [my solutions](a2.pdf), so read with these to see what could have been done better (so that you will know for another time).
