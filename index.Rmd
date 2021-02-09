@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-09 11:45: I wanted to give you a lighter week of lectures this week, and thus a lighter assignment the week after reading week (since I'm guessing you'll have midterms in at least some of your other courses). The sections on analysis of covariance and multivariate analysis of variance are only 20 slides each, so I think we can do those two and call it a week. Analysis of covariance is really another look at regression (and has something in common with the regression with categorical variables that we did in C32), while multivariate analysis of variance will be new to you, but there are only a smallish number of ideas in it at this stage.
+
 - 2021-02-08 14:30: Assignment 3 is graded and the grades are posted. Here are [my solutions](a3.pdf).
 
 - 2021-02-04 11:00: the timing on this week's assignment is what Quercus says: 4 hours. I didn't check the time on the document with the questions in it. Sorry.
