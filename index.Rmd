@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-16 15:30: I got my headphones back from my daughter, so Lecture 6a is now recorded and up on Quercus. It came out to an hour and four minutes, but I think you'll find it rather dense because there are a lot of ideas in there. With that in mind, I will see whether I want to add to that for week 6. I plan to record the lecture on Discriminant Analysis later this week and see where it belongs, or whether I do better to split it in two and share it out between weeks 6 and 7. We'll see.
+
 - 2021-02-16 11:00: 
   - reading week greetings. I am planning to record lecture 6a, on repeated measures, later today. This develops out of the MANOVA stuff that is in lecture 5b. I have just finished tinkering with [the slides](bProfile_slides.pdf); the new version of those will be up by the time you read this. I was going to record the lecture this morning, but my daughter has stolen my headphones, so I will be stealing them back later to record your lecture! The slides had a few instances of `gather` (the old version of `pivot_longer`) and `spread` (the old version of `pivot_wider`), so I had to correct those. Also, there is some "mixed models" stuff that I wanted to show you (another, more modern, way to do repeated measures).
   - There may or may not eventually be a lecture 6b. The next piece is on discriminant analysis, which I recall being fairly substantial, so that, or some of it, may get left for week 7.
