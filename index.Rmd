@@ -13,6 +13,11 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-16 11:00: 
+  - reading week greetings. I am planning to record lecture 6a, on repeated measures, later today. This develops out of the MANOVA stuff that is in lecture 5b. I have just finished tinkering with [the slides](bProfile_slides.pdf); the new version of those will be up by the time you read this. I was going to record the lecture this morning, but my daughter has stolen my headphones, so I will be stealing them back later to record your lecture! The slides had a few instances of `gather` (the old version of `pivot_longer`) and `spread` (the old version of `pivot_wider`), so I had to correct those. Also, there is some "mixed models" stuff that I wanted to show you (another, more modern, way to do repeated measures).
+  - There may or may not eventually be a lecture 6b. The next piece is on discriminant analysis, which I recall being fairly substantial, so that, or some of it, may get left for week 7.
+  - I have some time Wednesday (tomorrow) afternoon to hold a pseudo-tutorial, aka time for questions or to chat. Let me know via e-mail if you would like me to do that. I'm thinking 4:00pm.
+
 - 2021-02-11 14:30: Next week is reading week, so there are no lectures, assignments etc. for you to be responsible for that week. I was hoping to have a tutorial on Monday, but that is Family Day and I am not available then. I should be available later in the week if you want to chat. I'll let you know. At this point, I'm sure you don't want to know about assignment 5, but that is up now and will become available *on the Tuesday of reading week*, in case you want to get an early start on it. (You have the usual, hopefully generous, five hours to work on it). It will be due the Thursday after reading week (the 25th). Assignment 5 has two questions that I made as short as I reasonably could.
 
 - 2021-02-10 11:30 edited 11:50: Lecture 5b is recorded, and will go up later in the usual places. It also seems to have come out to about 40 minutes, so I think that's about enough for this week. This lecture might be more challenging for you than 5a is, since 5b has some ideas that will definitely be new to you, and you may need some time to absorb them. Edited to add: the lecture is up in the usual places linked from Quercus.
