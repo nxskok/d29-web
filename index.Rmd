@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-16 22:10: sorry, forgot to post my [assignment 4 solutions](a4.pdf).
+
 - 2021-02-16 15:30: I got my headphones back from my daughter, so Lecture 6a is now recorded and up on Quercus. It came out to an hour and four minutes, but I think you'll find it rather dense because there are a lot of ideas in there. With that in mind, I will see whether I want to add to that for week 6. I plan to record the lecture on Discriminant Analysis later this week and see where it belongs, or whether I do better to split it in two and share it out between weeks 6 and 7. We'll see.
 
 - 2021-02-16 11:00: 
