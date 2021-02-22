@@ -13,6 +13,13 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-02-33 12:15: 
+  - reminder: we are back to work, with tutorial at 4 today in the usual place. This week's assignment is on the alphabet soup of ANCOVA and MANOVA, which are better described as analysis of covariance (ANOVA when you also have a quantitative explanatory variable) and multivariate analysis of variance (when you have more than one response variable). So it's not just about what type of variables you have, it's also about what role they play.
+
+  - Also, I am about to record the second part of discriminant analysis (next week), but R Studio on my laptop is not cooperating with me, so I am rebooting the laptop in the hopes that it will improve things.
+
+- 2021-02-19 20:30: in a desperate attempt to get ahead, I've put the first lecture of week *7* up on [Quercus](http://q.utoronto.ca). Week 6 is short, just one lecture, but week 7 will gain a second lecture once I have recorded that. The assignment for week 6, which you most likely don't care about yet, is up (and has only one question). 
+
 - 2021-02-16 22:10: sorry, forgot to post my [assignment 4 solutions](a4.pdf).
 
 - 2021-02-16 15:30: I got my headphones back from my daughter, so Lecture 6a is now recorded and up on Quercus. It came out to an hour and four minutes, but I think you'll find it rather dense because there are a lot of ideas in there. With that in mind, I will see whether I want to add to that for week 6. I plan to record the lecture on Discriminant Analysis later this week and see where it belongs, or whether I do better to split it in two and share it out between weeks 6 and 7. We'll see.
