@@ -13,7 +13,7 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
-- 2021-02-33 12:15: 
+- 2021-02-22 12:15: 
   - reminder: we are back to work, with tutorial at 4 today in the usual place. This week's assignment is on the alphabet soup of ANCOVA and MANOVA, which are better described as analysis of covariance (ANOVA when you also have a quantitative explanatory variable) and multivariate analysis of variance (when you have more than one response variable). So it's not just about what type of variables you have, it's also about what role they play.
 
   - Also, I am about to record the second part of discriminant analysis (next week), but R Studio on my laptop is not cooperating with me, so I am rebooting the laptop in the hopes that it will improve things.
