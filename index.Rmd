@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-03-01 17:45: in response to a request from tutorial today, [my solutions to assignment 5](a5.pdf). I seemed to need the reminder to post them this week. The assignment this week is on repeated measures; just one question this week, but it does go up to part (h). I am realistic enough to guess that a number of you won't get to the next lectures until the assignment is out of the way, but "this week's" lectures are on discriminant analysis. 
+
 - 2021-02-22 12:15: 
   - reminder: we are back to work, with tutorial at 4 today in the usual place. This week's assignment is on the alphabet soup of ANCOVA and MANOVA, which are better described as analysis of covariance (ANOVA when you also have a quantitative explanatory variable) and multivariate analysis of variance (when you have more than one response variable). So it's not just about what type of variables you have, it's also about what role they play.
 
