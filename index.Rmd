@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-03-03 11:30: the lecture slides for cluster analysis (which I am about to record the second part of) and for discriminant analysis have been recently updated, so if you have an old copy of the notes for those sections, you might like to re-download that. (If you download the slides using the link next to the video, this will probably not apply to you, but if things look inconsistent between your version and mine, that's the reason.)
+
 - 2021-03-01 17:45: in response to a request from tutorial today, [my solutions to assignment 5](a5.pdf). I seemed to need the reminder to post them this week. The assignment this week is on repeated measures; just one question this week, but it does go up to part (h). I am realistic enough to guess that a number of you won't get to the next lectures until the assignment is out of the way, but "this week's" lectures are on discriminant analysis. 
 
 - 2021-02-22 12:15: 
