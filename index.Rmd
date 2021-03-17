@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-03-17 10:00: here's the plan for the rest of the way: I'm going to record two lectures for week 10, 10a on factor analysis and 10b on frequency tables, then there will be an assignment 10 due in week 11 on those, and *then we will be done*. (This is as far as I usually get face-to-face; I think I go a little faster recording the lectures, though I try not to.) I am steering clear of having anything due in the last week so that you can concentrate on term papers and so on that you might have in other courses, or get ready for exams that  you might have in other courses.
+
 - 2021-03-15 13:00: Assignment 7 has been graded and the grades are published. Here are [my solutions](a7.pdf). 
 
 - 2021-03-14 19:15: for those of you outside Canada (or for those of you inside who haven't noticed yet), we are now on Daylight Time (UTC minus 4). This means that your assignments, live classes etc are an hour earlier until *you* go onto Daylight Time (if you do). In my courses, I'm not going to quibble about assignments being an hour late, but you will need to make sure you have the right time for your tutorial.
