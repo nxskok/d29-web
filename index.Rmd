@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-03-22 14:45: The assignment 8 grades are up. I notice that Bo has been rather generous with the 10s this week. Here are [my solutions](a8.pdf).
+
 - 2021-03-19 21:00: 
   - the remaining lectures are up. There are *no* lectures for weeks 11 and 12. I figure you have worked hard enough. There will (eventually) be an Assignment 10, due in week 11, and then you will be done with this course! 
   - having said that, the week 10 lectures are a little over 2 hours altogether, so I have given you a bit more to watch in week 10, in return for having nothing to watch after that. This means that everything we do is on an assignment somewhere.
