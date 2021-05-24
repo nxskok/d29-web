@@ -13,6 +13,8 @@ Welcome to the home page for STA 1007 / STAD29. This is the place to look for th
 
 ## News (newest first)
 
+- 2021-04-22 10:30: there were a couple of you that got 72.5, which should have been rounded up to 73 and wasn't, but now is. Sorry, my mistake. I think that's my last announcement. Have a good summer, everyone, and I hope to get a chance to meet you in person once such things are possible again. 
+
 - 2021-04-05 13:15: forgot to mention: there is a tutorial today, the last one, if you want to stop by and say hello (my guess that the amount of actual stats in the conversation will be pretty low). The coordinates are in the announcements on Quercus. 
 
 - 2021-04-05 13:00: it almost goes without saying that the assignment 10s are graded, with [my solutions](a10.pdf) here. You and I are now in a position to figure out grades: take your best 8 assignment scores, add them up and divide by 80. 68/80 = 85% is the cutoff for an A. 0.5s get rounded up, anything less gets rounded down. Also, as in C32, you will not receive a number grade one below a letter-grade boundary. For example, 79.5 gets rounded up to 80, but 79.4 gets rounded down to 78 (on the basis that you didn't do enough to get A-, so don't ask me). I am going to do the official course grades later this week (you will not get them until after the course evaluation period is done in any case), so raise any issues with the grading of assignment 10 by then (bearing in mind that Bo is an extremely consistent grader and things are unlikely to change). There was a rather small number of assignments handed in this time, from which I infer that a lot of you are happy with the grade that you have already earned.
